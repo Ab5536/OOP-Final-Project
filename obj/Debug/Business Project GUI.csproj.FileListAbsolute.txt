@@ -1,0 +1,84 @@
+E:\2nd Semester\OOP\Final Project\Business Project GUI\bin\Debug\Business Project GUI.exe.config
+E:\2nd Semester\OOP\Final Project\Business Project GUI\bin\Debug\Business Project GUI.exe
+E:\2nd Semester\OOP\Final Project\Business Project GUI\bin\Debug\Business Project GUI.pdb
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.AssemblyReference.cache
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.mainForm.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.Properties.Resources.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.GenerateResource.cache
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.CoreCompileInputs.cache
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business Project GUI.exe
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business Project GUI.pdb
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.SignIn_Form.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.Customer_Form.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.takeLoginCustomer.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.AdminMenu.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.CustomerMenu.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.Manage_Products.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.buy_Product.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\bin\Debug\EZInput.dll
+E:\2nd Semester\OOP\Final Project\Business Project GUI\bin\Debug\EZInput.xml
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.CopyComplete
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.Manage_Employee.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.Employee_Menu.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.manage_Customer.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.Carted_Form.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.FeedBack_Form.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.viewPurchasedProducts.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.view_FeedBack.resources
+E:\2nd Semester\OOP\Final Project\Business Project GUI\obj\Debug\Business_Project_GUI.ViewEarning.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\Business Project GUI.exe.config
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\Business Project GUI.exe
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\Business Project GUI.pdb
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\EZInput.dll
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\EZInput.xml
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.AssemblyReference.cache
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.AdminMenu.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.buy_Product.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Carted_Form.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.CustomerMenu.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Customer_Form.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Employee_Menu.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.FeedBack_Form.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.manage_Customer.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Manage_Employee.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Manage_Products.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.mainForm.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Properties.Resources.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.SignIn_Form.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.takeLoginCustomer.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.view_FeedBack.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.viewPurchasedProducts.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.ViewEarning.resources
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.GenerateResource.cache
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.CoreCompileInputs.cache
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.CopyComplete
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.exe
+E:\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.pdb
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\Business Project GUI.exe.config
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\Business Project GUI.exe
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\Business Project GUI.pdb
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\EZInput.dll
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\bin\Debug\EZInput.xml
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.AssemblyReference.cache
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.AdminMenu.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.buy_Product.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Carted_Form.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.CustomerMenu.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Customer_Form.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Employee_Menu.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.FeedBack_Form.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.manage_Customer.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Manage_Employee.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Manage_Products.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.mainForm.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.Properties.Resources.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.SignIn_Form.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.takeLoginCustomer.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.view_FeedBack.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.viewPurchasedProducts.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business_Project_GUI.ViewEarning.resources
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.GenerateResource.cache
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.csproj.CoreCompileInputs.cache
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.exe
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business Project GUI.pdb
+D:\Local Disk (E)\2nd Semester\OOP\Projects\Final  Business Project\Business Project GUI\obj\Debug\Business.B0D4FCF0.Up2Date

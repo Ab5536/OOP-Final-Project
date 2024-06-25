@@ -1,0 +1,3 @@
+abd^1234^392^Bread,87h,Groccery,98,789;Bread,87h,Groccery,98,3;Egg,60-A,Gross,220,18;Bread,87h,Groccery,98,4^Jam,8709,Groccery,300,2^Sohneyo*Chal de diya
+abd^1234^392^Bread,87h,Groccery,98,789;Bread,87h,Groccery,98,3;Egg,60-A,Gross,220,18;Bread,87h,Groccery,98,4^Jam,8709,Groccery,300,2^Sohneyo*Chal de diya
+Abdullah^8787^900^Jam,8709,Groccery,30,30^-^This is Nice Application

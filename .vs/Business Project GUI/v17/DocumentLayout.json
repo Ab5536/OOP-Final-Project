@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|d:\\local disk (e)\\2nd semester\\oop\\projects\\final  business project\\business project gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\carted_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:carted_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\signin_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:signin_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\signin_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:signin_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\main form.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:main form.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\buy_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:buy_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\buy_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:buy_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\carted_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:carted_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\bl\\customerinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069759DA-979B-4928-BF33-E9D456CC77D4}|Business Project GUI.csproj|solutionrelative:bl\\customerinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignIn_Form.cs",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\SignIn_Form.cs",
+              "RelativeDocumentMoniker": "SignIn_Form.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\SignIn_Form.cs",
+              "RelativeToolTip": "SignIn_Form.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-27T10:47:59.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignIn_Form.cs [Design]",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\SignIn_Form.cs",
+              "RelativeDocumentMoniker": "SignIn_Form.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\SignIn_Form.cs [Design]",
+              "RelativeToolTip": "SignIn_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-27T10:28:15.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main Form.cs",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\Main Form.cs",
+              "RelativeDocumentMoniker": "Main Form.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\Main Form.cs",
+              "RelativeToolTip": "Main Form.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswHUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-26T18:41:46.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T11:12:48.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carted_Form.cs",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\Carted_Form.cs",
+              "RelativeDocumentMoniker": "Carted_Form.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\Carted_Form.cs",
+              "RelativeToolTip": "Carted_Form.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwG4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-24T09:48:05.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carted_Form.cs [Design]",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\Carted_Form.cs",
+              "RelativeDocumentMoniker": "Carted_Form.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\Carted_Form.cs [Design]",
+              "RelativeToolTip": "Carted_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-24T09:48:06.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerInfoBL.cs",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\BL\\CustomerInfoBL.cs",
+              "RelativeDocumentMoniker": "BL\\CustomerInfoBL.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\BL\\CustomerInfoBL.cs",
+              "RelativeToolTip": "BL\\CustomerInfoBL.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T09:48:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "buy_Product.cs",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\buy_Product.cs",
+              "RelativeDocumentMoniker": "buy_Product.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\buy_Product.cs",
+              "RelativeToolTip": "buy_Product.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAWwLkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-24T09:48:06.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "buy_Product.cs [Design]",
+              "DocumentMoniker": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\buy_Product.cs",
+              "RelativeDocumentMoniker": "buy_Product.cs",
+              "ToolTip": "D:\\Local Disk (E)\\2nd Semester\\OOP\\Projects\\Final  Business Project\\Business Project GUI\\buy_Product.cs [Design]",
+              "RelativeToolTip": "buy_Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-24T09:48:06.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
